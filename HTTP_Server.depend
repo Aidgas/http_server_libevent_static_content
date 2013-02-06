@@ -1,0 +1,66 @@
+# depslib dependency file v1.0
+1345727956 source:/home/sk/NEXT CHAT/HTTP_SERVER/HTTP_Server/main.cpp
+	<event.h>
+	<evhttp.h>
+	<pthread.h>
+	<errno.h>
+	<string.h>
+	<fcntl.h>
+	<sys/socket.h>
+	<sys/types.h>
+	<signal.h>
+	<netinet/in.h>
+	<iostream>
+	<map>
+	<sys/stat.h>
+
+1360147801 source:/home/sk/__RETURN__/c++/servers/HTTP_SERVER/HTTP_Server/main.cpp
+	<event.h>
+	<evhttp.h>
+	<pthread.h>
+	<errno.h>
+	<string.h>
+	<fcntl.h>
+	<sys/socket.h>
+	<sys/types.h>
+	<signal.h>
+	<netinet/in.h>
+	<iostream>
+	<map>
+	<malloc.h>
+	<sys/stat.h>
+	"include/zlib/zlib.h"
+	"include/inih_r26/cpp/INIReader.h"
+
+1336018355 /home/sk/__RETURN__/c++/servers/HTTP_SERVER/HTTP_Server/include/zlib/zlib.h
+	"zconf.h"
+
+1335741492 /home/sk/__RETURN__/c++/servers/HTTP_SERVER/HTTP_Server/include/zlib/zconf.h
+	<windows.h>
+	<limits.h>
+	<sys/types.h>
+	<stddef.h>
+	<unistd.h>
+	<unixio.h>
+
+1340073680 source:/home/sk/__RETURN__/c++/servers/HTTP_SERVER/HTTP_Server/include/inih_r26/cpp/INIReader.cpp
+	<algorithm>
+	<cctype>
+	<cstdlib>
+	"../ini.h"
+	"INIReader.h"
+
+1349116232 /home/sk/__RETURN__/c++/servers/HTTP_SERVER/HTTP_Server/include/inih_r26/ini.h
+	<stdio.h>
+
+1340073680 /home/sk/__RETURN__/c++/servers/HTTP_SERVER/HTTP_Server/include/inih_r26/cpp/INIReader.h
+	<map>
+	<string>
+
+1349116190 source:/home/sk/__RETURN__/c++/servers/HTTP_SERVER/HTTP_Server/include/inih_r26/ini.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	"ini.h"
+	<stdlib.h>
+
